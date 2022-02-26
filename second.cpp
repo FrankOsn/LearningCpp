@@ -1,4 +1,4 @@
-// Funcion -- Mostrar nombre y dirección
+// Funcion Main -- Mostrar nombre y dirección
 #include <iostream>
 using namespace std;
 
